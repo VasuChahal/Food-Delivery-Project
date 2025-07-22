@@ -21,7 +21,7 @@ This is a frontend Web Application built using React.js. The application simulat
 | **Context API**   | Manage global states like cart, login status, and menu filters          |
 | **CSS**           | Custom styling for all components and responsiveness                    |
 
-⚙️ How Functionality Works
+- ## ⚙️ How Functionality Works
 
 🔐 Login System
 - The login popup appears when the user initiates an action (e.g., adding to cart).
