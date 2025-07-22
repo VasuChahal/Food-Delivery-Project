@@ -50,7 +50,4 @@ This is a frontend Web Application built using React.js. The application simulat
 - URL updates without full page reload, creating a Single Page Application (SPA) feel.
 - Navigation bar helps users move between different sections smoothly.
 
-  ## 📸 Screenshots
-  ### 🏠 Home Page
-![Home](./screenshots/home.jpg)
 
